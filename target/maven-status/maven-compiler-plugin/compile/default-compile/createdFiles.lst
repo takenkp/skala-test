@@ -1,0 +1,15 @@
+com/sk/skala/myapp/repository/PlayerStockRepository.class
+com/sk/skala/myapp/model/StockConstants.class
+com/sk/skala/myapp/MyappApplication.class
+com/sk/skala/myapp/config/DataLoader.class
+com/sk/skala/myapp/service/PlayerService.class
+com/sk/skala/myapp/model/Player.class
+com/sk/skala/myapp/model/StockRequest.class
+com/sk/skala/myapp/repository/StockRepository.class
+com/sk/skala/myapp/controller/HelloController.class
+com/sk/skala/myapp/controller/StockController.class
+com/sk/skala/myapp/model/Stock.class
+com/sk/skala/myapp/repository/PlayerRepository.class
+com/sk/skala/myapp/controller/PlayerController.class
+com/sk/skala/myapp/model/PlayerStock.class
+com/sk/skala/myapp/service/StockService.class

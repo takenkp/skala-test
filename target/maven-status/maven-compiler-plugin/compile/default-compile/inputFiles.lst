@@ -1,0 +1,15 @@
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/MyappApplication.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/config/DataLoader.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/controller/HelloController.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/controller/PlayerController.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/controller/StockController.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/model/Player.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/model/PlayerStock.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/model/Stock.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/model/StockConstants.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/model/StockRequest.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/repository/PlayerRepository.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/repository/PlayerStockRepository.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/repository/StockRepository.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/service/PlayerService.java
+/Users/kp/SKALA/cloud/exec/rde-launcher-macbook/config/workspace/cloud/k8s-ddive/myapp/01.my-app/src/main/java/com/sk/skala/myapp/service/StockService.java
